@@ -35,7 +35,7 @@ minima:
 
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: minima
 plugins:
   - jekyll-feed
 
