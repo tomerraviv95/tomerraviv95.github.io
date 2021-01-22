@@ -24,7 +24,7 @@ author:
   email: tomerraviv95@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   PhD blog about machine learning in communication
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: 'tomerraviv95' # the subpath of your site, e.g. /blog
 url: "http://tomerraviv95.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
