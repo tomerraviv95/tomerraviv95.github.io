@@ -6,7 +6,7 @@ categories:
 ---
 **TLDR** I discuss the gap between the current and desired states in machine-learning based communication, including key points to consider in paper writing.
 
-**Machine learning is here to stay.** It has had tremendous impact over plentiful domains, many of which were stuck because manual engineering of solutions is too complex and analytically unfeasible. In communication, ML shines in two main scenarios: Either in a model deficit case, or an algorithmic deficit one ([paper][1]). 
+**Machine learning is here to stay.** It has had tremendous impact over plentiful domains, many of which were stuck because manual engineering of solutions is analytically unfeasible: There is no tractable mathematical relation between an image and the class of the animal therein. In communication, ML shines in two main scenarios: Either in a model deficit case, or an algorithmic deficit one ([paper][1]). 
 
 **Trend** However, another ML trend is slowly becoming mainstream. This new trend applies ML to classical applications, considered solved both in academia and the industry. These specific cases are of little theoretical or practical interest; It seems they are explored simply because ML is the new kid on the block. What are the causes for this unsettling phenomena?
 
@@ -32,9 +32,14 @@ categories:
 
 **Standards** It all starts and ends with the standards we employ. Set a high bar in all aspects: research works, peer reviews and presentations.
 
+*Acknowledgements* Thanks to [Nir Shlezinger][4] and [Yair Be'ery][5] for their feedback on this post.
 
 [1]: https://ieeexplore.ieee.org/document/8542764
 
 [2]: https://paperswithcode.com/sota/object-detection-on-coco
 
 [3]: https://www.youtube.com/watch?v=tWBMgre6VWE
+
+[4]: https://sites.google.com/view/nirshl
+
+[5]: http://www.eng.tau.ac.il/~ybeery/
