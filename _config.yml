@@ -6,15 +6,14 @@ baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "A blog dedicated to machine learning for wireless communications, focusing on model-based approaches which are the interest of my PhD. I may add some additional unrelated content :)"
 title_image: "https://i.imgur.com/z5gX2Lr.jpg"
-google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/tomerraviv95/
+# google_analytics: "UA-20365477-4"
+# disqus_account: cartenoire
+# github_repository: https://github.com/tomerraviv95/
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
 # youtube_username: Model-Based for Communication
-github_username:  tomerraviv95
 # instagram_username: 
 # reddit_username: 
 linkedin_link: www.linkedin.com/in/tomer-raviv-ds/
@@ -22,6 +21,7 @@ linkedin_link: www.linkedin.com/in/tomer-raviv-ds/
 # stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 # xing_link:
 # facebook_link:
+github_username:  tomerraviv95
 google_scholar_username: X-LB01UAAAAJ&hl
 
 # Footer
