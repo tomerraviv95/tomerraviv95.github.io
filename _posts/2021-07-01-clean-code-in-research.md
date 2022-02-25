@@ -6,10 +6,8 @@ author:     Tomer Raviv
 categories: jekyll
 thumbnail:  heart
 tags:
- - welcome
- - to
- - carte
- - noire
+ - clean code
+ - reproducibility
 ---
 
 **TLDR** What is clean code? How is it applied to research? This post discusses the importance of clean code principles to research applications.
