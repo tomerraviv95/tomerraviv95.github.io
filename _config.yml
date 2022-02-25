@@ -37,7 +37,7 @@ minima:
 
 # Build settings
 # theme: dark-minima
-remote_theme: songzivong/dark-minima
+remote_theme: jacobtomlinson/carte-noire
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
