@@ -3,14 +3,11 @@ layout:     post
 title:      The State of ML-Based Communication
 date:       2021-01-22 00:00:00
 author:     Tomer Raviv
-summary:    I discuss the gap between the current and desired states in machine-learning based communication, including key 	    points to consider in paper writing.
 categories: jekyll
 thumbnail:  heart
 tags:
- - welcome
- - to
- - carte
- - noire
+ - ML in communication
+ - progress
 ---
 
 **TLDR** I discuss the gap between the current and desired states in machine-learning based communication, including key points to consider in paper writing.
