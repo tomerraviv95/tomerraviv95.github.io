@@ -4,7 +4,7 @@ title:      Data Augmentation for Deep Receivers
 date:       2022-02-25 00:00:00
 author:     Tomer Raviv
 categories: jekyll
-thumbnail:  heart
+thumbnail:  database
 tags:
  - augmentation
  - domain-orientation

@@ -4,7 +4,7 @@ title:      Clean Code in Research
 date:       2021-07-01 00:00:00
 author:     Tomer Raviv
 categories: jekyll
-thumbnail:  heart
+thumbnail:  binary
 tags:
  - clean code
  - reproducibility
