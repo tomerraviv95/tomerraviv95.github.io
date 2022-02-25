@@ -4,7 +4,7 @@ title:      The State of ML-Based Communication
 date:       2021-01-22 00:00:00
 author:     Tomer Raviv
 categories: jekyll
-thumbnail:  satellite
+thumbnail:  mobile
 tags:
  - ML in communication
  - progress
