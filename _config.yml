@@ -4,7 +4,8 @@ email: tomerraviv95@gmail.com
 description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A blog dedicated to machine learning for wireless communications, focusing on model-based approaches which are the interest of my PhD. I may add some additional unrelated content :)"
+title_description: "A blog dedicated to machine learning for wireless communications, focusing on model-based approaches which are the interest of my PhD. I may add some additional unrelated content :)
+Check out my youtube channel at on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-youtube-alt\"></i>"
 title_image: "https://i.imgur.com/z5gX2Lr.jpg"
 # google_analytics: "UA-20365477-4"
 # disqus_account: cartenoire
