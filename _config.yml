@@ -1,11 +1,10 @@
 # Site settings
-title: "Machine-learning for Communication Blog"
+title: "Machine-learning for Communication Blog (by Tomer Raviv)"
 email: tomerraviv95@gmail.com
 description: "A dark blog theme for Jekyll."
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A blog dedicated to machine learning for wireless communications, focusing on model-based approaches which are the interest of my PhD. I may add some additional unrelated content :)
-Check out my youtube channel at on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-youtube-alt\"></i>"
+url: "https://www.youtube.com/channel/UCdb_-KGa28ams10gTONqo9g"
+title_description: "A blog dedicated to machine learning for wireless communications, focusing on model-based approaches which are the interest of my PhD. I may add some additional unrelated content :) Check out my youtube channel https://www.youtube.com/channel/UCdb_-KGa28ams10gTONqo9g"
 title_image: "https://i.imgur.com/z5gX2Lr.jpg"
 # google_analytics: "UA-20365477-4"
 # disqus_account: cartenoire
@@ -27,7 +26,7 @@ google_scholar_username: X-LB01UAAAAJ&hl
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://www.youtube.com/channel/UCdb_-KGa28ams10gTONqo9g">here</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
