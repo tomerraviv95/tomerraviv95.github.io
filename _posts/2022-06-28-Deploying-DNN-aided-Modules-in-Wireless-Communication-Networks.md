@@ -52,13 +52,13 @@ applicable as in other domains such as computer vision or natural language proce
 means that we must find ways to facilitate the training process of DNN-aided components after
 deployment.
 
-**Assuming that we want to deploy some DNN-aided component, such as a detector or a decoder,
+**Assuming that we want to deploy some DNN-aided component,** such as a detector or a decoder,
 then one is likely to ask prior to deployment:
 1. *What* is the specific architecture of the DNN-aided component?
 2. *Which* initial weights should we choose?
 3. *How* to make it more efficient in terms of complexity or latency?
 
-**After answering the above questions and developing the desired module, the engineer deploys
+**After answering the above questions ** and developing the desired module, the engineer deploys
 the component. But now, the engineer faces performance degradation! This is due to dynamic
 nature of wireless communication channels; From a machine learning perspective, the data
 distribution constantly changes thus creating a mismatch between the train and test distributions.
